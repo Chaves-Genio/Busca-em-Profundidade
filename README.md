@@ -10,4 +10,4 @@ Estudantes:
   António Chaves Ngumba Monteiro,
   Augusto Quiatucana Alberto.
 
-Orientador: Mac. Joaquim João Nsaku Ventura.
+Orientador: Msc. Joaquim João Nsaku Ventura.
